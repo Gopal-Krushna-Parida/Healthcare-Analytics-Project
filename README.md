@@ -21,9 +21,15 @@ This project demonstrates an end-to-end Healthcare Analytics solution using Pyth
 - Excel
 
 ## Project Structure
+
+```text
 Healthcare-Analytics-Project/
 │
 ├── dataset/
+│   ├── Hospital_Management_Records.xlsx
+│   ├── Cleaned_Hospital_Management_Records.xlsx
+│   └── Cleaned_Hospital_Management_Records.csv
+│
 ├── Python/
 │   ├── dataload.ipynb
 │   ├── Cleaned_dataset.ipynb
@@ -41,6 +47,7 @@ Healthcare-Analytics-Project/
 │   └── Financial Analysis.png
 │
 └── README.md
+```
 ## Dashboard Pages
 - Executive Summary
 - Hospital Performance
