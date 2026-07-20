@@ -53,6 +53,7 @@ Healthcare-Analytics-Project/
 - Hospital Performance
 - Financial Analysis
 ### Executive Summary
+![Executive Summary](PowerBI/Executive%20Summary.png)
 - Total Patients
 - Total Revenue
 - Total Amount Paid
@@ -64,6 +65,7 @@ Healthcare-Analytics-Project/
 - Patients by disease
 
 ### Hospital Performance 
+![Hospital Performance](PowerBI/Hospital%20Performance.png)
 - Monthly Patient trend
 - Disease Distribution
 - Patient Required Surgery
@@ -71,6 +73,7 @@ Healthcare-Analytics-Project/
 - Top Doctors by Patients Treated
 
 ### Financial Analysis 
+![Financial Analysis](PowerBI/Financial%20Analysis.png)
 - Revenue by Payment Mode
 - Revenue by Department
 - Pending Amount by Department
